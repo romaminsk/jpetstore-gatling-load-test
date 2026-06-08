@@ -8,8 +8,6 @@ import ru.otus.jpetstore.steps.CatalogSteps;
 
 import java.time.Duration;
 
-import static io.gatling.javaapi.core.CoreDsl.feed;
-import static io.gatling.javaapi.core.CoreDsl.pause;
 import static io.gatling.javaapi.core.CoreDsl.scenario;
 
 public final class UserScenarios {
